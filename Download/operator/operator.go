@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/KushamiNeko/GoFun/Utility/pretty"
-	"github.com/KushamiNeko/GoHappy/Download/command"
+	"github.com/KushamiNeko/GoFun/Fun/Utility/pretty"
+	"github.com/KushamiNeko/GoFun/Download/command"
 )
 
 const processLimit = 10

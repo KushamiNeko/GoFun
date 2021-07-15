@@ -7,7 +7,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/KushamiNeko/GoFun/Utility/pretty"
+	"github.com/KushamiNeko/GoFun/Fun/Utility/pretty"
 )
 
 const (

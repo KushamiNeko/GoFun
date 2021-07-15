@@ -5,7 +5,7 @@ import (
 	"html/template"
 	"net/http"
 
-	"github.com/KushamiNeko/GoFun/Utility/pretty"
+	"github.com/KushamiNeko/GoFun/Fun/Utility/pretty"
 )
 
 func WriteTemplate(w http.ResponseWriter, temp *template.Template, name string, data interface{}) {

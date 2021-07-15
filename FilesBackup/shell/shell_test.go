@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/KushamiNeko/GoHappy/FilesBackup/config"
+	"github.com/KushamiNeko/GoFun/FilesBackup/config"
 )
 
 func TestCpEmpty(t *testing.T) {

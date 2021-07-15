@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/KushamiNeko/GoFun/Model/finance"
+	"github.com/KushamiNeko/GoFun/Fun/Model/finance"
 )
 
 type Source int

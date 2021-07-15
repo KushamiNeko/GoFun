@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/KushamiNeko/GoFun/Model/finance"
+	"github.com/KushamiNeko/GoFun/Fun/Model/finance"
 )
 
 func randomTimeSeries(start, end, ex string) *finance.TimeSeries {

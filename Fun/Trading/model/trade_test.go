@@ -3,7 +3,7 @@ package model
 import (
 	"testing"
 
-	"github.com/KushamiNeko/GoFun/Trading/config"
+	"github.com/KushamiNeko/GoFun/Fun/Trading/config"
 )
 
 func TestNewFuturesTradeInconsistenceSymbol(t *testing.T) {

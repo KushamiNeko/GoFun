@@ -1,7 +1,7 @@
 package config
 
 import (
-	"github.com/KushamiNeko/GoFun/Utility/pretty"
+	"github.com/KushamiNeko/GoFun/Fun/Utility/pretty"
 )
 
 const (

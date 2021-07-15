@@ -5,7 +5,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/KushamiNeko/GoFun/Utility/test"
+	"github.com/KushamiNeko/GoFun/Fun/Utility/test"
 )
 
 func TestRGB32ToHSV32(t *testing.T) {

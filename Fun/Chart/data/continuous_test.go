@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/KushamiNeko/GoFun/Chart/futures"
+	"github.com/KushamiNeko/GoFun/Fun/Chart/futures"
 )
 
 func currentSymbol(cct continuousContract, current *futures.Contract, symbol string) *futures.Contract {

@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"strconv"
 
-	"github.com/KushamiNeko/GoFun/Utility/input"
+	"github.com/KushamiNeko/GoFun/Fun/Utility/input"
 )
 
 type CalculatingAgent struct{}

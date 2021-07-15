@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/KushamiNeko/GoFun/Utility/pretty"
+	"github.com/KushamiNeko/GoFun/Fun/Utility/pretty"
 )
 
 type DartOperator struct {

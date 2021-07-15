@@ -3,7 +3,7 @@ package utils
 import (
 	"time"
 
-	"github.com/KushamiNeko/GoFun/Trading/model"
+	"github.com/KushamiNeko/GoFun/Fun/Trading/model"
 )
 
 type timing struct {

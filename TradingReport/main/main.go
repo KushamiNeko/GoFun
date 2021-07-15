@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/KushamiNeko/GoFun/Trading/statistic"
+	"github.com/KushamiNeko/GoFun/Fun/Trading/statistic"
 )
 
 // var ErrMissingAccountBalance = errors.New("missing account balance")

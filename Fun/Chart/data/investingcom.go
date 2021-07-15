@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/KushamiNeko/GoFun/Chart/utils"
-	"github.com/KushamiNeko/GoFun/Model/finance"
+	"github.com/KushamiNeko/GoFun/Fun/Chart/utils"
+	"github.com/KushamiNeko/GoFun/Fun/Model/finance"
 )
 
 type investingCom struct{}

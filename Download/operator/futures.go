@@ -7,7 +7,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/KushamiNeko/GoFun/Chart/futures"
+	"github.com/KushamiNeko/GoFun/Fun/Chart/futures"
 )
 
 type barchartFutures struct {

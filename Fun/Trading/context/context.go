@@ -3,9 +3,9 @@ package context
 import (
 	"fmt"
 
-	"github.com/KushamiNeko/GoFun/Trading/config"
-	"github.com/KushamiNeko/GoFun/Trading/model"
-	"github.com/KushamiNeko/GoFun/Utility/hashutils"
+	"github.com/KushamiNeko/GoFun/Fun/Trading/config"
+	"github.com/KushamiNeko/GoFun/Fun/Trading/model"
+	"github.com/KushamiNeko/GoFun/Fun/Utility/hashutils"
 )
 
 type database interface {

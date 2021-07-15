@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/KushamiNeko/GoFun/Utility/pretty"
-	"github.com/KushamiNeko/GoHappy/WebFactory/process"
+	"github.com/KushamiNeko/GoFun/Fun/Utility/pretty"
+	"github.com/KushamiNeko/GoFun/WebFactory/process"
 )
 
 func main() {

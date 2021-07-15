@@ -5,8 +5,8 @@ import (
 	"math"
 	"time"
 
-	"github.com/KushamiNeko/GoFun/Model/finance"
-	"github.com/KushamiNeko/GoFun/Trading/model"
+	"github.com/KushamiNeko/GoFun/Fun/Model/finance"
+	"github.com/KushamiNeko/GoFun/Fun/Trading/model"
 )
 
 func transactionSlice(

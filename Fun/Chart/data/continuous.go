@@ -14,10 +14,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/KushamiNeko/GoFun/Chart/futures"
-	"github.com/KushamiNeko/GoFun/Chart/utils"
-	"github.com/KushamiNeko/GoFun/Model/finance"
-	"github.com/KushamiNeko/GoFun/Utility/pretty"
+	"github.com/KushamiNeko/GoFun/Fun/Chart/futures"
+	"github.com/KushamiNeko/GoFun/Fun/Chart/utils"
+	"github.com/KushamiNeko/GoFun/Fun/Model/finance"
+	"github.com/KushamiNeko/GoFun/Fun/Utility/pretty"
 )
 
 var errDataFormat error = fmt.Errorf("invalid data format")

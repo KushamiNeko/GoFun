@@ -4,7 +4,7 @@ import (
 	"math"
 	"time"
 
-	"github.com/KushamiNeko/GoFun/Model/finance"
+	"github.com/KushamiNeko/GoFun/Fun/Model/finance"
 )
 
 func DailyToWeekly(ts *finance.TimeSeries) *finance.TimeSeries {

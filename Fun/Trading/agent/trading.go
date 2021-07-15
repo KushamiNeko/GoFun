@@ -5,11 +5,11 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/KushamiNeko/GoFun/Trading/config"
-	"github.com/KushamiNeko/GoFun/Trading/context"
-	"github.com/KushamiNeko/GoFun/Trading/model"
-	"github.com/KushamiNeko/GoFun/Utility/database"
-	"github.com/KushamiNeko/GoFun/Utility/input"
+	"github.com/KushamiNeko/GoFun/Fun/Trading/config"
+	"github.com/KushamiNeko/GoFun/Fun/Trading/context"
+	"github.com/KushamiNeko/GoFun/Fun/Trading/model"
+	"github.com/KushamiNeko/GoFun/Fun/Utility/database"
+	"github.com/KushamiNeko/GoFun/Fun/Utility/input"
 )
 
 type TradingAgent struct {

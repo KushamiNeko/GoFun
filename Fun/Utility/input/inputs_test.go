@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/KushamiNeko/GoFun/Utility/test"
+	"github.com/KushamiNeko/GoFun/Fun/Utility/test"
 )
 
 func TestValidateStringWIthRegex(t *testing.T) {

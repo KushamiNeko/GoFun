@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/KushamiNeko/GoFun/Trading/config"
+	"github.com/KushamiNeko/GoFun/Fun/Trading/config"
 )
 
 type Statistic struct {

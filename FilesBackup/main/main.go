@@ -10,9 +10,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/KushamiNeko/GoFun/Utility/pretty"
-	"github.com/KushamiNeko/GoHappy/FilesBackup/config"
-	"github.com/KushamiNeko/GoHappy/FilesBackup/operation"
+	"github.com/KushamiNeko/GoFun/Fun/Utility/pretty"
+	"github.com/KushamiNeko/GoFun/FilesBackup/config"
+	"github.com/KushamiNeko/GoFun/FilesBackup/operation"
 )
 
 func main() {
@@ -27,7 +27,7 @@ func main() {
 
 	flag.StringVar(&safeguard, "safeguard", "", "the dir path that must exist in dst.")
 
-	flag.BoolVar(&force, "force", false, "force refresh all directories and files")
+	flag.BoolVar(&force, "force", true, "force refresh all directories and files")
 	flag.BoolVar(&ensure, "ensure", false, "ensure the results")
 
 	flag.Parse()

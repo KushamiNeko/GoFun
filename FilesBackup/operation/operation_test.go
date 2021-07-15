@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/KushamiNeko/GoHappy/FilesBackup/shell"
+	"github.com/KushamiNeko/GoFun/FilesBackup/shell"
 )
 
 const (

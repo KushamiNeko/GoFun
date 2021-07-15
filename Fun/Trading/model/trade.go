@@ -6,7 +6,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/KushamiNeko/GoFun/Trading/config"
+	"github.com/KushamiNeko/GoFun/Fun/Trading/config"
 )
 
 const (

@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/KushamiNeko/GoFun/Utility/input"
-	"github.com/KushamiNeko/GoFun/Utility/pretty"
-	"github.com/KushamiNeko/GoHappy/Download/operator"
+	"github.com/KushamiNeko/GoFun/Fun/Utility/input"
+	"github.com/KushamiNeko/GoFun/Fun/Utility/pretty"
+	"github.com/KushamiNeko/GoFun/Download/operator"
 )
 
 const introColor = pretty.PaperYellow300

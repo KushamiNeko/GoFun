@@ -6,7 +6,7 @@ import (
 	"encoding/base64"
 	"math/rand"
 
-	"github.com/KushamiNeko/GoFun/Utility/hashutils"
+	"github.com/KushamiNeko/GoFun/Fun/Utility/hashutils"
 )
 
 const (
